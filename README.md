@@ -23,3 +23,14 @@ Clone the repository: https://github.com/tastan45/AQ-MultiCal.git
 Install dependencies: pip install -r requirements.txt
 
 Run the application: streamlit run AQ-MultiCal.py
+
+👨‍🏫 Author
+Assoc. Prof. Dr. Mehmet TAŞTAN
+
+E-mail: mehmet.tastan@cbu.edu.tr
+
+Manisa Celal Bayar University
+
+Department of Electronics and Automation Manisa/TURKEY
+
+Specializing in IoT, Machine Learning, and Environmental Monitoring.
