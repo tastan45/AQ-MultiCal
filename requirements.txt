@@ -10,3 +10,4 @@ scikit-optimize
 scipy
 seaborn
 matplotlib
+statsmodels
