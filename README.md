@@ -5,6 +5,8 @@ AQ-MultiCal is a Python-based, web-accessible, and interactive Machine Learning 
 🚀 Live Demo
 Access the interactive platform here: https://aq-multical-73g6ufjhbbpplxpvza5efe.streamlit.app/
 
+📂 Sample Dataset: You can access the sample dataset (CSV) required to test the platform in the files section above 
+
 ✨ Key Features
 Multi-Model Support: Evaluate 14 ML regression models, including Linear, Tree-based (RF, DT), and Boosting (XGBoost, LightGBM, CatBoost) approaches.
 Automated Optimization: Integrated hyperparameter tuning using Grid Search, Randomized Search, and Bayesian Optimization.
